@@ -4,7 +4,7 @@
 within the *Data-Driven Specialist* program.
 
 📄 **Project documentation:**  
-👉 [View optimization report (PDF)](docs/Informe%20de%20optimizacion%20de%20consultas.pdf)
+👉 [View optimization report (PDF)](sql/data)
 
 ---
 
